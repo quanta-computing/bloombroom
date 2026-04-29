@@ -1,10 +1,10 @@
 
 # Pipelines Codeowners rules
-.github/**                    @centreon/owners-pipelines
-.yamlfix.toml                 @centreon/owners-pipelines
+.github/**                    @quanta-computing/owners-pipelines
+.yamlfix.toml                 @quanta-computing/owners-pipelines
 
 # Security Codeowners rules
-.gitleaks.toml                @centreon/owners-security
-.gitleaksignore               @centreon/owners-security
-.githooks/pre-commit          @centreon/owners-security
-**/secu-*.yml                 @centreon/owners-security
+.gitleaks.toml                @quanta-computing/owners-security
+.gitleaksignore               @quanta-computing/owners-security
+.githooks/pre-commit          @quanta-computing/owners-security
+**/secu-*.yml                 @quanta-computing/owners-security
